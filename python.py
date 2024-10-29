@@ -10,3 +10,6 @@ print(2495 + 789358)
 
 # substract of two number
 print( 193856 - 596 )
+
+#product of the number 
+print(37*67*391)
