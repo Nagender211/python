@@ -17,3 +17,8 @@ print(37*67*391)
 #print input 
 a=input()
 print(a)
+
+#print multiple values
+a=input()
+print(a)
+print("###")
