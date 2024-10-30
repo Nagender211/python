@@ -183,3 +183,18 @@ print(21+12)
 # breath=int(input())
 # permiter=2*(length+breath)
 # print(permiter)
+
+# percentage of the boys
+# girls_per=int(input())
+# boy_per=100-girls_per
+# print(boy_per)
+
+# sum of the float number
+# a=float(input())
+# b=float(input())
+# print("Sum:",a+b)
+
+# percentage of the number with 200
+# per=int(input())
+# value=(per/100)*200
+# print(value)
