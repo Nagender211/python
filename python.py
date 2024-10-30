@@ -162,3 +162,17 @@ print(37*67*391)
 
 # sum of two nunbers
 print(21+12)
+
+
+# divied the a/b
+a=int(input())
+b=int(input())
+print(a/b)
+
+
+# area of the rectangel
+
+length=4
+breath=3
+Area=length*breath
+print(Area)
