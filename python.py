@@ -198,3 +198,19 @@ print(21+12)
 # per=int(input())
 # value=(per/100)*200
 # print(value)
+
+
+# remainder
+# divedend=int(input())
+# divisor=int(input())
+# quotient=int(divedend/divisor)
+# remainder=divedend-(divisor*quotient)
+# print(remainder)
+
+
+# sum of the three digit
+# b=(input())
+
+# print(int(b[0])+int(b[1])+int(b[2]))
+
+
