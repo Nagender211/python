@@ -214,3 +214,18 @@ print(21+12)
 # print(int(b[0])+int(b[1])+int(b[2]))
 
 
+
+# indexing
+# W=input()
+# N=int(input())
+# print(W[N])
+
+
+# string repeation
+# W=input()
+# N=int(input())
+# print(W*N)
+
+# print the three chart
+# a=input()
+# print(a[:3])
