@@ -229,3 +229,8 @@ print(21+12)
 # print the three chart
 # a=input()
 # print(a[:3])
+
+# print part  of the string
+# s=input()
+# n=int(input())
+# print(s[n:])
