@@ -157,5 +157,8 @@ print(37*67*391)
 
 
 # first and last only remaing *
-a=input()
-print(a[0]+"*"*(len(a)-2)+a[-1])
+# a=input()
+# print(a[0]+"*"*(len(a)-2)+a[-1])
+
+# sum of two nunbers
+print(23+54)
