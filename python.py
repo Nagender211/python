@@ -161,4 +161,4 @@ print(37*67*391)
 # print(a[0]+"*"*(len(a)-2)+a[-1])
 
 # sum of two nunbers
-print(23+54)
+print(21+12)
