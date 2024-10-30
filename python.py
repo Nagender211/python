@@ -165,14 +165,21 @@ print(21+12)
 
 
 # divied the a/b
-a=int(input())
-b=int(input())
-print(a/b)
+# a=int(input())
+# b=int(input())
+# print(a/b)
 
 
 # area of the rectangel
 
-length=4
-breath=3
-Area=length*breath
-print(Area)
+# length=4
+# breath=3
+# Area=length*breath
+# print(Area)
+
+
+# peremeter
+# length=int(input())
+# breath=int(input())
+# permiter=2*(length+breath)
+# print(permiter)
